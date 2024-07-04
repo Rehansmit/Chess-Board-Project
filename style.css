@@ -19,30 +19,34 @@
 
 .subhead{
     color: black;
-    background-color:rgb(228, 207, 207);
-    height: 100px;
-    text-align: left;
+        height: 200px;
+           text-align: left;
     border-color: yellow;
-    bor
+    display: inline-block;
+    padding: auto;
+        }
+
+h3{
     
-    }
+    display: inline-block;
+    margin; 20px
 
-
-
-.a1{
-    color: orange;
-    font-size: 20px;
-    
 }
+
+.a1{font-size: medium;
+    color:orange
+}
+
 .a2{
     color: white;
     margin-left: 200px;
 }
 .button{
-    background-color: orangered;
-    color:black;
+    background-color: orange;
+    color:black
     width: 100px;
     font-size: medium;
+
 }
 
 input{
